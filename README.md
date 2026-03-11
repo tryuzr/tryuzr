@@ -46,8 +46,6 @@ Testing & Security:
 
 ## [⭓] Find Me Online
 
-- **GitHub:**   [github.com/inject3r](https://github.com/inject3r)
-- **LinkedIn:** [linkedin.com/in/abolfazl](https://linkedin.com/in/abolfazl)  
-- **Twitter:**  [twitter.com/abolfazl_dev](https://twitter.com/abolfazl_dev)
-- **Email:**    [abolfazl@dev.io](mailto:abolfazl@dev.io)
-- **Website:**  [abolfazl.dev](https://abolfazl.dev)
+- **GitHub:**   [github.com/tryuzr](https://github.com/tryuzr)
+- **LinkedIn:** [linkedin.com/in/tryuzr](https://linkedin.com/in/tryuzr)  
+- **Email:**    [tryuzr@gmail.com](mailto:tryuzr@gmail.com)
